@@ -1,0 +1,11 @@
+.git
+.env
+.venv/
+venv/
+vectorstore/
+reports/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+tests/
+analysis.ipynb

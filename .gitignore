@@ -1,0 +1,13 @@
+# secrets
+.env
+# generated
+vectorstore/
+reports/*
+!reports/.gitkeep
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
